@@ -1,9 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mulesoft.test.HelloMavenTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 43.998 s <<< FAILURE! - in com.mulesoft.test.HelloMavenTest
-mavenFlowReturnsHelloMaven(com.mulesoft.test.HelloMavenTest)  Time elapsed: 34.027 s  <<< ERROR!
-org.mule.api.config.ConfigurationException: Already exists a listener matching that path and methods. Listener matching ListenerRequestMatcher{path='/', methodRequestMatcher=MethodRequestMatcher{methods=*}} new listener ListenerRequestMatcher{path='/', methodRequestMatcher=MethodRequestMatcher{methods=*}} (org.mule.api.lifecycle.InitialisationException)
-Caused by: org.mule.api.lifecycle.InitialisationException: Already exists a listener matching that path and methods. Listener matching ListenerRequestMatcher{path='/', methodRequestMatcher=MethodRequestMatcher{methods=*}} new listener ListenerRequestMatcher{path='/', methodRequestMatcher=MethodRequestMatcher{methods=*}}
-Caused by: org.mule.api.MuleRuntimeException: Already exists a listener matching that path and methods. Listener matching ListenerRequestMatcher{path='/', methodRequestMatcher=MethodRequestMatcher{methods=*}} new listener ListenerRequestMatcher{path='/', methodRequestMatcher=MethodRequestMatcher{methods=*}}
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 55.157 s - in com.mulesoft.test.HelloMavenTest

@@ -1,4 +1,4 @@
-/*package com.mulesoft.test;
+package com.mulesoft.test;
 
 import static org.junit.Assert.*;
 
@@ -18,4 +18,3 @@ public class HelloMavenTest extends FunctionalTestCase {
     }
 
 }
-*/

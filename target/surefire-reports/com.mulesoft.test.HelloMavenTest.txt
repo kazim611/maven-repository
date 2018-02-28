@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mulesoft.test.HelloMavenTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 55.157 s - in com.mulesoft.test.HelloMavenTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 60.198 s - in com.mulesoft.test.HelloMavenTest
